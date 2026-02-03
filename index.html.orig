@@ -17,7 +17,11 @@
                 <img src="img/tweetThis.svg" />
             </a>            
         </div>
+<<<<<<< HEAD
+		<h1>this is the updated by nilesh and in granch2</h1>
+=======
 		<h1>this is the updated by nilesh and in branch1</h1>
+>>>>>>> branch1
             <div class="content-body">
                 <div class="success-text">Success!</div>
                 <div class="description line-1"> Azure DevOps Project has been successfully setup</div>
